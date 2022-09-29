@@ -1,0 +1,19 @@
+分支管理:
+
+查看分支: git branch
+
+创建分支: git branch <name>
+
+切换分支: git switch <name>
+
+创建+切换分支: git switch -c <name>
+
+删除分支: git branch -d <name>
+
+合并某分支到当前分支: git merge <name>
+
+合并某分支到当前分支: git merge --no-ff -m "<commition>" <name>
+//合并分支后并创建一个新的commit (禁用Fast Forward)
+
+分支合并图: git log --graph
+
