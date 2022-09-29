@@ -1,2 +1,3 @@
-This is Git!
+This is My Git Learning Program!
 Hello World!
+2.0
